@@ -1,0 +1,52 @@
+main {
+  display: block;
+}
+
+h1, h2, h3 {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+  color:#ff99cc;
+  background-color: black;
+  padding: 0.5em;
+}
+
+#img-div {
+  text-align: center;
+  background-color: #f2f2f2;
+  padding: 1em;
+  font-family: 'Ubuntu', sans-serif;
+  margin: 3em;
+}
+
+#img-caption {
+  padding: 1em;
+}
+
+img {
+  display:block;
+  margin: auto;
+}
+
+#image{
+  max-width: 100%;
+}
+
+#tribute-info {
+  margin: auto;
+  padding: 3rem;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#tribute-info a {
+  text-decoration: none;
+  color:  #ff66b3;
+}
+
+
+#tribute-info a:hover {
+  cursor: pointer;
+  color: #cc0066;
+}
